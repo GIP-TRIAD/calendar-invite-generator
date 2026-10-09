@@ -18,5 +18,5 @@ Calendar Invite Generator — never miss your meeting at 2 am again.
 
 ## Usage
 
-Simply open it at https://gip-triad.github.io/mc-run-sheet/ , enter the event time in a reference timezone, add the meeting details, and generate the .ics file.
+Simply open it at https://gip-triad.github.io/calendar-invite-generator/ , enter the event time in a reference timezone, add the meeting details, and generate the .ics file.
 
